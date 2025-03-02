@@ -14,11 +14,13 @@ Identify and describe at least three key milestones in the evolution of software
 Before the 1960s, software development lacked formal engineering principles, leading to the "software crisis"—projects ran over budget, suffered delays, and were often unreliable.
 In 1968, the NATO Software Engineering Conference introduced the term software engineering and emphasized the need for structured development processes.
 This milestone marked the beginning of software as an engineering discipline, with an emphasis on methodologies, structured programming, and systematic project management.
+
 2. The Introduction of the Waterfall Model (1970s)
 
 Winston W. Royce introduced the Waterfall Model, one of the first structured software development methodologies.
 The Waterfall approach defined a sequential process: Requirements → Design → Implementation → Testing → Deployment → Maintenance.
 It provided a systematic way to manage software projects but was criticized for its rigidity and lack of flexibility in handling changes.
+
 3. The Rise of Agile Methodologies (2001 - Agile Manifesto)
 
 In response to the limitations of traditional models like Waterfall, the Agile Manifesto was published in 2001 by a group of software developers.
